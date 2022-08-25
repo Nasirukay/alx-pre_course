@@ -1,2 +1,2 @@
 readme 
-Good programmer 
+good programmer 
